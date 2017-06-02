@@ -30,6 +30,15 @@
 - Karena penulis beranggapan bahwa python merupakan bahasa yang umum digunakan oleh Data Scientist
 - Dan Jupyter Notebook support penuh kernel bahasa python, sehingga memungkinkan penulis untuk mengimplementasikan, membuat, dan mengintegrasikan algoritma yang diasumsikan oleh penulis
 
+## Tes Bot?
+1. Install line apps
+2. klik tombol dibawah
+
+  <a href="https://line.me/R/ti/p/%40ony5028v"><img height="36" border="0" alt="Tambah Teman" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+
+3. atau Scan QR Code dibawah
+
+  <img src="/g8-fjztBdk.png">
 
 ## Next To Do?
 - [ ] Mengimplemantasikan algortima evolusi dalam meringkas teks, berdasarkan paper [TF-IDF-ENHANCED GENETIC ALGORITHM UNTUK EXTRACTIVE AUTOMATIC TEXT SUMMARIZATION](http://jtiik.ub.ac.id/index.php/jtiik/article/download/217/pdf)
