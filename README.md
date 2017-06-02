@@ -5,21 +5,21 @@
 - Telah tersebar di 230 negara
 - dan Support 19 bahasa
 
-<img src="/lin1.PNG">
+<img src="https://github.com/ec2ainun/bot-line-indonesian-summarizer/blob/master/lin1.PNG">
 
-<img src="/lin2.PNG">
+<img src="https://github.com/ec2ainun/bot-line-indonesian-summarizer/blob/master/lin2.PNG">
 
-<img src="/lin3.PNG">
+<img src="https://github.com/ec2ainun/bot-line-indonesian-summarizer/blob/master/lin3.PNG">
 
 - Dan di indonesia sendiri 1/3 penduduknya telah menggunakan LINE
 
-<img src="/lin4.PNG">
+<img src="https://github.com/ec2ainun/bot-line-indonesian-summarizer/blob/master/lin4.PNG">
 
 ## Kenapa Meringkas teks?
 
 - Menurut Penelitian yang dilakukan organisasi Mindjet, manusia kewalahan dengan banyaknya informasi yang diproses, dan membuang 1/3 waktu yang ada untuk memproses dan mencerna informasi yang tidak relevan
 
-<img src="/drown.jpg">
+<img src="https://github.com/ec2ainun/bot-line-indonesian-summarizer/blob/master/drown.jpg">
 
 ## Setup environment
 
