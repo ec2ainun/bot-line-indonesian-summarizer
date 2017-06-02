@@ -28,7 +28,7 @@
 
 ## Kenapa menggunakan python?
 - Karena penulis beranggapan bahwa python merupakan bahasa yang umum digunakan oleh Data Scientist
-- Dan Jupyter Notebook suppport penuh kernel bahasa python, sehingga memungkinkan penulis dalam membuat, dan mengintegrasikan algoritma yang diasumsikan penulis
+- Dan Jupyter Notebook support penuh kernel bahasa python, sehingga memungkinkan penulis untuk mengimplementasikan, membuat, dan mengintegrasikan algoritma yang diasumsikan oleh penulis
 
 
 ## Next To Do?
