@@ -31,13 +31,12 @@
 - Dan Jupyter Notebook support penuh kernel bahasa python, sehingga memungkinkan penulis untuk mengimplementasikan, membuat, dan mengintegrasikan algoritma yang diasumsikan oleh penulis
 
 ## Tes Bot?
-1. Install line apps
-2. klik tombol dibawah
+1. Install LINE apps dari Google Play atau App Store
+2. Klik tombol dibawah
 
   <a href="https://line.me/R/ti/p/%40ony5028v"><img height="36" border="0" alt="Tambah Teman" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 3. atau Scan QR Code dibawah
-
   <img src="/g8-fjztBdk.png">
 
 ## Next To Do?
