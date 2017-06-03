@@ -23,15 +23,15 @@
 
 ## Setup environment
 
-- Dapat mengunjungi [link ini](https://www.dicoding.com/academies/32/tutorials/719)
+- Tutorial Setup bahasa indonesia Dapat mengunjungi [link ini](https://www.dicoding.com/academies/32/tutorials/719)
 - Offical Documentation python SDK dapat mengunjungi [link ini](https://github.com/line/line-bot-sdk-python)
 
 ## Kenapa menggunakan python?
 - Karena penulis beranggapan bahwa python merupakan bahasa yang umum digunakan oleh Data Scientist
 - Dan Jupyter Notebook support penuh kernel bahasa python, sehingga memungkinkan penulis untuk mengimplementasikan, membuat, dan mengintegrasikan algoritma yang diasumsikan oleh penulis
 
-## Tes Bot?
-1. Install LINE apps dari Google Play atau App Store
+## Testing Bot?
+1. Install LINE apps dari Google Play atau App Store.
 2. Klik tombol dibawah
 
   <a href="https://line.me/R/ti/p/%40ony5028v"><img height="36" border="0" alt="Tambah Teman" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
