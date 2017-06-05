@@ -18,3 +18,4 @@ googlemaps
 beautifulsoup4
 Sastrawi
 numpy
+nose
