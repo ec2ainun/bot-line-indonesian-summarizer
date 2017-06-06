@@ -1,4 +1,5 @@
 # Bot line
+[![Build Status](https://travis-ci.org/ec2ainun/bot-line-indonesian-summarizer.svg?branch=master)](https://travis-ci.org/ec2ainun/bot-line-indonesian-summarizer)
 ## Kenapa platform LINE?
 
 - Memiliki global monthly active users sebanyak 220.000.000 user per juli 2016
