@@ -43,3 +43,5 @@
 ## Next To Do?
 - [ ] Mengimplemantasikan Algoritma Evolusi dalam meringkas teks, berdasarkan paper [TF-IDF-ENHANCED GENETIC ALGORITHM UNTUK EXTRACTIVE AUTOMATIC TEXT SUMMARIZATION](http://jtiik.ub.ac.id/index.php/jtiik/article/download/217/pdf)
 
+# LICENSE
+[MIT](/LICENSE)
