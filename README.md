@@ -26,6 +26,7 @@
 
 - Tutorial Setup bahasa indonesia Dapat mengunjungi [link ini](https://www.dicoding.com/academies/32/tutorials/719)
 - Offical Documentation python SDK dapat mengunjungi [link ini](https://github.com/line/line-bot-sdk-python)
+- Kunjungi [Link ini](https://business.line.me/id/) untuk mendapatkan CHANNEL_SECRET dan CHANNEL_ACCESS_TOKEN
 
 ## Kenapa menggunakan python?
 - Karena penulis beranggapan bahwa python merupakan bahasa yang umum digunakan oleh Data Scientist
