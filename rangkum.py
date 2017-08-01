@@ -13,7 +13,7 @@ class Berita:
         stopwords = open('id.stopwords.02.01.2016.txt','r').read().split('\n')
         halamanBerita = urllib.request.urlopen(self.link)
         soup = BeautifulSoup(halamanBerita, "html.parser")
-        isi = soup.find("div", class_="read__content")
+        isi = soup.find("h3", class_="read__content")
         if(len(isi)<2):
             return ""
         isi = isi.find_all("p")
