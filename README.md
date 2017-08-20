@@ -6,21 +6,21 @@
 - Telah tersebar di 230 negara
 - dan Support 19 bahasa
 
-<img src="/lin1.PNG">
+<img src="src/lin1.PNG">
 
-<img src="/lin2.PNG">
+<img src="src/lin2.PNG">
 
-<img src="/lin3.PNG">
+<img src="src/lin3.PNG">
 
 - Dan di indonesia sendiri 1/3 penduduknya telah menggunakan LINE
 
-<img src="/lin4.PNG">
+<img src="src/lin4.PNG">
 
 ## Kenapa Meringkas teks?
 
 - Menurut Penelitian yang dilakukan organisasi Mindjet, manusia kewalahan dengan banyaknya informasi yang diproses, dan membuang 1/3 waktu yang ada untuk memproses dan mencerna informasi yang tidak relevan
 
-<img src="/drown.jpg">
+<img src="src/drown.jpg">
 
 ## Setup environment
 
@@ -39,7 +39,7 @@
   <a href="https://line.me/R/ti/p/%40ony5028v"><img height="36" border="0" alt="Tambah Teman" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 3. atau Scan QR Code dibawah
-  <img src="/g8-fjztBdk.png">
+  <img src="src/g8-fjztBdk.png">
 
 ## Next To Do?
 - [ ] Mengimplemantasikan Algoritma Evolusi dalam meringkas teks, berdasarkan paper [TF-IDF-ENHANCED GENETIC ALGORITHM UNTUK EXTRACTIVE AUTOMATIC TEXT SUMMARIZATION](http://jtiik.ub.ac.id/index.php/jtiik/article/download/217/pdf)
