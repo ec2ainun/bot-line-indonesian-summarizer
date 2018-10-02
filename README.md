@@ -46,7 +46,7 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starcharts.herokuapp.com/ec2ainun/books-ML-and-DL.svg)](https://starcharts.herokuapp.com/ec2ainun/books-ML-and-DL)
+[![Stargazers over time](https://starcharts.herokuapp.com/ec2ainun/bot-line-indonesian-summarizer.svg)](https://starcharts.herokuapp.com/ec2ainun/bot-line-indonesian-summarizer)
       
 
 ## LICENSE
