@@ -44,6 +44,11 @@
 ## Next To Do?
 - [ ] Mengimplemantasikan Algoritma Evolusi dalam meringkas teks, berdasarkan paper [TF-IDF-ENHANCED GENETIC ALGORITHM UNTUK EXTRACTIVE AUTOMATIC TEXT SUMMARIZATION](http://jtiik.ub.ac.id/index.php/jtiik/article/download/217/pdf)
 
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/ec2ainun/books-ML-and-DL.svg)](https://starcharts.herokuapp.com/ec2ainun/books-ML-and-DL)
+      
+
 ## LICENSE
 [MIT](/LICENSE)
 
